@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173029292433",
+    "project_id": "just-sell-70725",
+    "storage_bucket": "just-sell-70725.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173029292433:android:81cf0b204f5102f07cc230",
+        "android_client_info": {
+          "package_name": "com.example.justsell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173029292433-lfs86ejb4r6qijgtvhna0gbdlhktc8dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8hOeOmDPQrwTIRN8-keScFf5db9sEitE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173029292433-lfs86ejb4r6qijgtvhna0gbdlhktc8dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

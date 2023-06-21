@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">just sell</string>
+    <string name="login">login</string>
+    <string name="forgot_password">forgot_password</string>
+    <string name="create_new_account">Create_new_account</string>
+    <string name="password">password</string>
+    <string name="forgot_pasword">forgot pasword</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="register">Register</string>
+    <string name="login_here">Login here</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="enter_email">enter email</string>
+    <string name="createnewaccount">create new account</string>
+    <string name="enteremail">enter email</string>
+    <string name="email">email</string>
+    <string name="phone_number">phone number</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="enter_mobile_number">enter mobile number</string>
+    <string name="generate_otp">generate otp</string>
+    <string name="otp">OTP</string>
+    <string name="verify_otp">verify otp</string>
+    <string name="Forgot_password">Forgot Password?</string>
+    <string name="fforgot_password">forgot password</string>
+    <string name="Email">Email</string>
+    <string name="back_to_login">Back to login</string>
+    <string name="Password">password</string>
+    <string name="home">Home</string>
+    <string name="sell">Sell</string>
+    <string name="account">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_activity">new activity</string>
+    <string name="furniture">furniture</string>
+    <string name="username">username</string>
+    <string name="Login" />
+</resources>

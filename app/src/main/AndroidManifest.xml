@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="reseller"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MaterialComponents.Light.NoActionBar"
+        tools:targetApi="31">
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713"/>
+        <activity
+            android:name=".SportsRecycleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ElectronicRecycleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ElectronicsUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FashionRecycleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FashionUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BooksRecycleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BooksUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kitchenRecycleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kitchenUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ItemDescriptionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FurnitureHomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".editImageAccount"
+            android:exported="false" />
+        <activity
+            android:name=".EditimageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Spleshscreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Sportsactivity"
+            android:exported="false" />
+        <activity
+            android:name=".furnitureActivity"
+            android:exported="false" />
+        <activity
+            android:name=".StyleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OTPverification"
+            android:exported="false" />
+        <activity
+            android:name=".ForgetpasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>
